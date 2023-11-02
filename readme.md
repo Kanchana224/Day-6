@@ -1,1 +1,1 @@
-Task of day 6 was completed.
+OOPS class and objects.
